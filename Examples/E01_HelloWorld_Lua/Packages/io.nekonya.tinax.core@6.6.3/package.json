@@ -1,0 +1,22 @@
+{
+  "name": "io.nekonya.tinax.core",
+  "version": "6.6.25",
+  "displayName": "TinaX.Core",
+  "description": "TinaX Framework.",
+  "unity": "2019.4",
+  "keywords": [
+    "TinaX",
+    "TinaX Framework"
+  ],
+  "author": {
+    "name": "yomunsam",
+    "email": "yomunsam@gmail.com",
+    "url": "https://yomunchan.moe"
+  },
+  "license":"MIT",
+  "type": "library",
+  "dependencies": {
+    "com.neuecc.unirx": "7.1.0",
+    "com.cysharp.unitask":"2.2.4"
+  }
+}
